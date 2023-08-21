@@ -82,3 +82,45 @@ C:\Users\USER\Desktop\שיעורי בית\פרקטיקוד\TodoApi\obj\Debug\net
 C:\Users\USER\Desktop\שיעורי בית\פרקטיקוד\TodoApi\obj\Debug\net7.0\TodoApi.pdb
 C:\Users\USER\Desktop\שיעורי בית\פרקטיקוד\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
 C:\Users\USER\Desktop\שיעורי בית\פרקטיקוד\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\appsettings.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\TodoApi.exe
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\TodoApi.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\TodoApi.pdb
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Humanizer.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\bin\Debug\net7.0\System.CodeDom.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.pdb
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+c:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\ToDoList\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll

@@ -8,14 +8,23 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ToDoDBContext>();
 builder.Services.AddEndpointsApiExplorer();
+// builder.Services.AddCors(options =>
+// {
+//     options.AddPolicy("OpenPolicy", policy =>
+//                           {
+//                               policy.WithOrigins("http://localhost:3000","https://todoserver-6h1q.onrender.com")
+//                                                   .AllowAnyHeader()
+//                                                   .AllowAnyMethod();
+//                           });
+
+// });
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("OpenPolicy", policy =>
-                          {
-                              policy.WithOrigins("http://localhost:3000","https://todoserver-6h1q.onrender.com")
-                                                  .AllowAnyHeader()
-                                                  .AllowAnyMethod();
-                          });
+    options.AddPolicy("CorsPolicy",
+        builder => builder.AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader());
 });
 builder.Services.AddSwaggerGen(c =>
 {
@@ -25,8 +34,8 @@ builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
-app.UseCors("OpenPolicy");
+app.UseCors("CorsPolicy");
+//app.UseCors("OpenPolicy");
 app.MapGet("/", () => "Hello World!");
 
 app.MapGet("/item/", async (ToDoDBContext context) => { return await context.Items.ToListAsync(); });
