@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("OpenPolicy", policy =>
                           {
-                              policy.WithOrigins("http://localhost:3000")
+                              policy.WithOrigins("http://localhost:3000","https://todoserver-6h1q.onrender.com")
                                                   .AllowAnyHeader()
                                                   .AllowAnyMethod();
                           });
