@@ -21,7 +21,7 @@ public partial class ToDoDBContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            string connectionString = "MYSQL_ADDON_URI=mysql://udbq9sebjleqnttw:AlfRu4efirNKxgJPzeD1@bnyu2rpupoothabum3gz-mysql.services.clever-cloud.com:3306/bnyu2rpupoothabum3gz";
+            string connectionString = "mysql://udbq9sebjleqnttw:AlfRu4efirNKxgJPzeD1@bnyu2rpupoothabum3gz-mysql.services.clever-cloud.com:3306/bnyu2rpupoothabum3gz";
             optionsBuilder.UseMySql(connectionString, Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.32-mysql"));
         }
     }
