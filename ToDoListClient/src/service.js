@@ -1,5 +1,5 @@
 import axios from 'axios';
-axios.defaults.baseURL = 'https://todoserver-6h1q.onrender.com';
+axios.defaults.baseURL = 'https://todoserver-6h1q.onrender.com/';
 axios.interceptors.response.use(
 function(response){
 return response;
